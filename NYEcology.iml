@@ -10,6 +10,17 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../toshiba/开发项目/工作项目/赢车/ycclassbean.zip!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../toshiba/开发项目/工作项目/赢车/ycclassbean.zip!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://$MODULE_DIR$/lib/axis.jar!/" />
         </CLASSES>
         <JAVADOC />
@@ -20,6 +31,15 @@
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/lib/commons-net-2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/fastjson-1.2.28.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -41,17 +61,6 @@
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../toshiba/开发项目/工作项目/赢车/ycclassbean.zip!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="jar://$MODULE_DIR$/../../toshiba/开发项目/工作项目/赢车/ycclassbean.zip!/" />
-        </SOURCES>
       </library>
     </orderEntry>
   </component>
