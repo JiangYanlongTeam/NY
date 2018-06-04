@@ -8,5 +8,5 @@ public interface TodoWorkflowService {
 	 * @param loginname
 	 * @return
 	 */
-	public String todoWorkflowCount(String loginname);
+	public String todoWorkflowCount(String loginname, String code);
 }
